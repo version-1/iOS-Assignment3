@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
     
     @objc func toTop () {
-        
+        self.navigationController?.popToRootViewController(animated: true)
     }
 
 

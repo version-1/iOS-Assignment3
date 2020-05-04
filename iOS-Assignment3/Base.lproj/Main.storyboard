@@ -41,7 +41,7 @@
         <!--View Controller-->
         <scene sceneID="ZvN-B5-gPT">
             <objects>
-                <viewController id="Oo9-oH-yrO" sceneMemberID="viewController">
+                <viewController id="Oo9-oH-yrO" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="f58-uH-g3L">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -87,7 +87,7 @@
         <!--View Controller-->
         <scene sceneID="gfI-ea-K47">
             <objects>
-                <viewController id="3xw-ne-C5o" sceneMemberID="viewController">
+                <viewController id="3xw-ne-C5o" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="4Wl-lB-eze">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -118,7 +118,7 @@
         <!--View Controller-->
         <scene sceneID="nz0-3W-Dp3">
             <objects>
-                <viewController id="CyR-hT-2o0" sceneMemberID="viewController">
+                <viewController id="CyR-hT-2o0" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tTl-tj-tps">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -182,7 +182,7 @@
         <!--View Controller-->
         <scene sceneID="bGA-yM-qGP">
             <objects>
-                <viewController id="D55-GG-RUt" sceneMemberID="viewController">
+                <viewController id="D55-GG-RUt" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="oFF-tx-AlU">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -204,7 +204,7 @@
         <!--View Controller-->
         <scene sceneID="WwR-PI-CU2">
             <objects>
-                <viewController id="D1L-pT-f9J" sceneMemberID="viewController">
+                <viewController id="D1L-pT-f9J" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Iw1-bx-MII">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -235,7 +235,7 @@
         <!--View Controller-->
         <scene sceneID="K5M-wh-be9">
             <objects>
-                <viewController id="uHn-PA-ONK" sceneMemberID="viewController">
+                <viewController id="uHn-PA-ONK" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ORL-tn-5WP">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -257,7 +257,7 @@
         <!--View Controller-->
         <scene sceneID="Mul-50-e0W">
             <objects>
-                <viewController id="sZY-Ve-nzJ" sceneMemberID="viewController">
+                <viewController id="sZY-Ve-nzJ" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="dwc-E4-q2V">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -279,7 +279,7 @@
         <!--View Controller-->
         <scene sceneID="eiZ-Le-1NE">
             <objects>
-                <viewController id="qqr-50-nhs" sceneMemberID="viewController">
+                <viewController id="qqr-50-nhs" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="d1o-Tk-3YD">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -301,7 +301,7 @@
         <!--View Controller-->
         <scene sceneID="aIm-cV-YcJ">
             <objects>
-                <viewController id="NpA-go-gWu" sceneMemberID="viewController">
+                <viewController id="NpA-go-gWu" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ans-DP-aWd">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -339,7 +339,7 @@
         <!--View Controller-->
         <scene sceneID="SGj-Q7-GAp">
             <objects>
-                <viewController id="wLP-3v-Ip4" sceneMemberID="viewController">
+                <viewController id="wLP-3v-Ip4" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="YqJ-U1-fzS">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -370,7 +370,7 @@
         <!--View Controller-->
         <scene sceneID="gOQ-0q-pyJ">
             <objects>
-                <viewController id="hRd-xn-zHo" sceneMemberID="viewController">
+                <viewController id="hRd-xn-zHo" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="XvS-rs-SoC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -401,7 +401,7 @@
         <!--View Controller-->
         <scene sceneID="AMd-pt-3fi">
             <objects>
-                <viewController id="v0m-e9-CkT" sceneMemberID="viewController">
+                <viewController id="v0m-e9-CkT" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ku6-7k-qzn">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -432,7 +432,7 @@
         <!--View Controller-->
         <scene sceneID="2L8-yL-B18">
             <objects>
-                <viewController id="Lfr-qj-Xea" sceneMemberID="viewController">
+                <viewController id="Lfr-qj-Xea" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Uf1-ph-l2W">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -454,7 +454,7 @@
         <!--View Controller-->
         <scene sceneID="flg-EM-FYf">
             <objects>
-                <viewController id="Lkx-Ll-UHv" sceneMemberID="viewController">
+                <viewController id="Lkx-Ll-UHv" customClass="ViewController" customModule="iOS_Assignment3" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rRA-nz-dVZ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
